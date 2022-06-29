@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "mmm"
+git commit -m "gh"
 git push
